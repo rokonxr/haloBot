@@ -2,13 +2,13 @@
 
 A simple internet bot written in vanilla javascript that can do nothing!
 
-### [**Deployed on Github Pages**](https://rokonxr.github.io/bot)
+### [**Deployed on Github Pages**](https://rokonxr.github.io/haloBot)
 
 ## Screenshots
 
-<img src="./public/assets/screenshots/phone.png" alt="Phone" height="300"/>
-<img src="./public/assets/screenshots/tablet.png" alt="Tablet" height="300"/>
-<img src="./public/assets/screenshots/laptop.png" alt="laptop" height="300"/>
+<img src="./docs/assets/screenshots/phone.png" alt="Phone" height="300"/>
+<img src="./docs/assets/screenshots/tablet.png" alt="Tablet" height="300"/>
+<img src="./docs/assets/screenshots/laptop.png" alt="laptop" height="300"/>
 
 ## Known Issues/Bug
 
